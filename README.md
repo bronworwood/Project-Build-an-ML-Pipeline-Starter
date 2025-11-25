@@ -179,3 +179,6 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+## WandB Repository Report
+https://wandb.ai/bronwynporter724-global-payments/nyc_airbnb/reports/Untitled-Report--VmlldzoxNTE3NjA2OQ
